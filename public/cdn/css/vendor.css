@@ -1,0 +1,25 @@
+/* CSS Document */
+
+.vendorboard{
+background-color: #FFF;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+	}
+.vendorboard h2 {
+    color: #C63;
+    font-size: 20px;
+    margin: 10px;
+    height: 37px;
+}
+.vendorboard p {
+    height: 70px;
+}
+.list-group span{ float:right; margin-top:-2px;}
+	.list-group .socialLink{ text-decoration:none;}
+	.modal-title{ font-size:16px; }
+.normalpadding{ padding:20px;}
+.vendorpagecss{ margin-bottom:30px; padding:10px;}
+.vendorpagecss h3{ font-size:18px; color:#0674ec; letter-spacing: 2px;}
+.vendorpagecss p{ font-size:14px; color:#666;}

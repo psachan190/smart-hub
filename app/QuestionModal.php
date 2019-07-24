@@ -1,0 +1,9 @@
+<?php
+namespace App;
+use Illuminate\Database\Eloquent\Model;
+class QuestionModal extends Model {
+   protected  $table = "question";
+   public $timestamps = false;
+   //protected $guarded = array('_token','');
+}
+?>
